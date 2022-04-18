@@ -1,0 +1,11 @@
+.header-style {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cornflowerblue;
+
+}
+
+.link-decorate {
+    color: white;
+    text-decoration: none;
+}

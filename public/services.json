@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Chawmin",
+        "price": "180",
+        "description": "In general, the term chow mein refers to fried noodles. More specifically, there are two main types of chow mein dishes: Steamed chow mein: In steamed chow mein, the noodles are initially flash-fried, then stir-fried while being tossed with additional ingredients like meat or vegetables and coated in a light sauce.",
+        "img": "https://c.ndtvimg.com/2020-04/dih4ifhg_pasta_625x300_22_April_20.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+    },
+    {
+        "id": 2,
+        "name": "Salad",
+        "price": "100",
+        "description": "salad, any of a wide variety of dishes that fall into the following principal categories: green salads; vegetable salads; salads of pasta, legumes, or grains; mixed salads incorporating meat, poultry, or seafood; and fruit salads.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJjVNr4R0HknlsS7fscuwGTDjZsVcoXkPNQ&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Chotpoti",
+        "price": "150",
+        "description": "The dish consists mainly of potatoes, chickpeas, and onions and is usually topped with additional diced chillies or grated boiled eggs. Other common toppings include tamarind chutney, coriander leaves, cumin, and crispy puri. It is spicy and sour in taste, and is usually served hot.",
+        "img": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_677,q_85,w_1280/v1/clients/raleigh/Aviatorki_wake_county_bbq_visit_raleigh_285_d28d21ce-db65-475e-91af-b236f09fecfa.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sandwich",
+        "price": "180",
+        "description": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
+        "img": "https://www.parkgrandlondon.co.uk/blog/wp-content/uploads/2019/12/food-2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Burger",
+        "price": "100",
+        "description": "Hamburgers consist of ground meat that is shaped in the form of a round patty, cooked and served on a bun. The classic hamburger is made from ground beef, but any type of ground meat can be used.",
+        "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/12/cover-for-street-food-in-sydney.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "price": "300",
+        "description": "What is this? Pizza is popular due to its simplicity of preparation. If there is any other food easier to prepare and healthy, pizza tops that list. Pizza is made with some fresh vegetables that make it helpful, especially to vegetarians.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4yxc54fvHWPYcRKE8CP4C84u8rUkl1uVVNU6jVsbCHbjBhii6bMFitAMuffkzUYG4Dg&usqp=CAU"
+    }
+]
